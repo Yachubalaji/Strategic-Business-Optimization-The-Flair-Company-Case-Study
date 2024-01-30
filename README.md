@@ -2,6 +2,9 @@
 Embark on a journey of strategic decision-making with 'Strategic Business Optimization: The Flair Company Case Study'. This Python-based Jupyter Notebook delves into a real-world business challenge faced by the Flair Company, offering a detailed exploration of mathematical optimization techniques.
 📈 README for 'Flair Company Optimization Analysis' Jupyter Notebook
 
+<img width="649" alt="image" src="https://github.com/Yachubalaji/Strategic-Business-Optimization-The-Flair-Company-Case-Study/assets/116568951/34c868ba-3230-4163-aa0f-6d8962b8016c">
+
+
 🌟 Introduction:
 Welcome to the "Flair Company Optimization Analysis" Jupyter Notebook. This detailed guide offers an insightful look into solving a real-world optimization problem faced by the Flair Company. Ideal for students and professionals in operations research, logistics, and supply chain management, this notebook is a comprehensive resource for learning how to apply mathematical optimization techniques to complex business problems.
 
